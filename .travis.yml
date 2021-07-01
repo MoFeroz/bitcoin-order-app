@@ -8,7 +8,7 @@ sudo: required
 notifications:
   email:
     recipients:
-      - feroz.mohamediqubal@ncs.com.sg
+      - bunnyppl@gmail.com
     on_success: always
     on_failure: always
 branches:
